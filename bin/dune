@@ -1,0 +1,4 @@
+(executable
+ (public_name cs6120_task1)
+ (name main)
+ (libraries cs6120_task1))
