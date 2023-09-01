@@ -1,4 +1,4 @@
 (executable
- (public_name cs6120_task1)
+ (public_name task1)
  (name main)
- (libraries cs6120_task1))
+ (libraries bril task1 yojson))

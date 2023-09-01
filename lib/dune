@@ -1,2 +1,3 @@
 (library
- (name cs6120_task1))
+ (name task1)
+ (libraries bril core))
